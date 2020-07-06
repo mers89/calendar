@@ -20,7 +20,7 @@ int main()
 
     //result calculation
     string output = findEasterDate(year);
-    cout << output;
+    cout << output << endl ;
 
     //loop
     cout << "Continue (y/n)? ";
